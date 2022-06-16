@@ -16,7 +16,7 @@
 
 <a href="https://codecourses.site">Code Courses</a> is a website where people learn about coding and different technologies/frameworks/libraries. To help people learn, all of the courses are **FREE** and **DETAIL**. Hopefully, after following the content on Code Courses, you will find your dream jobs, and build any applications that you want.
 
-> For the full course, You can refer to this [link](https://codecourses.site/react/how-to-learn-react-context-ep-1/).
+> For the full course, You can refer to this [link](https://codecourses.site/typescript/how-to-master-singleton-pattern/).
 
 <a id="technologies"></a>
 
